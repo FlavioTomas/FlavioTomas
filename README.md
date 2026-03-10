@@ -18,7 +18,7 @@ Sou um desenvolvedor apaixonado por criar soluções inteligentes que unem desig
 ### 🚀 Projetos em Destaque
 
 #### 🧪 [Recipe Alchemist](https://github.com/FlavioTomas/recipe-alchemist)
-Aplicação interativa em **React e TypeScript** que utiliza lógica de dados para sugerir receitas baseadas em ingredientes disponíveis. Foco em estado complexo e UX. [Acesse a demo aqui]([https://flowtudy.com](https://recipe-alchemist-seven.vercel.app)).
+Aplicação interativa em **React e TypeScript** que utiliza lógica de dados para sugerir receitas baseadas em ingredientes disponíveis. Foco em estado complexo e UX. [Acesse a demo aqui](https://recipe-alchemist-seven.vercel.app).
 
 #### ⏱️ [Flowtudy](https://github.com/FlavioTomas/Flowtudy-Pomodoro)
 Gerenciador de produtividade (Pomodoro + Task Manager) desenvolvido com **JS Vanilla**, focado em manipulação de DOM e persistência local. [Acesse o site aqui](https://flowtudy.com).

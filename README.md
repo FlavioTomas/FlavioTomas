@@ -70,19 +70,23 @@
 <br><br>
 
 <div align="center">
-  <h3>Projetos em Destaque</h3>
-  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=700&size=28&pause=1000&color=9370DB&center=true&vCenter=true&width=400&lines=Projetos+em+Destaque;Featured+Projects" />
+  <br><br>
 
-  <div style="display: inline-block; width: 45%; min-width: 300px; vertical-align: top; margin: 10px;">
-    <b>Recipe Alchemist</b> <br>
-    <img src="./recipe-demo.gif" width="100%" style="border-radius: 10px;" alt="Demo Recipe"/> <br>
-    <a href="https://recipe-alchemist-seven.vercel.app">Live Demo</a> | <a href="https://github.com/FlavioTomas/recipe-alchemist">Repositório</a>
+  <div style="display: inline-block; width: 45%; min-width: 300px; vertical-align: top; margin: 15px;">
+    <h4>Recipe Alchemist</h4>
+    <br>
+    <img src="./recipe-demo.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Demo Recipe"/>
+    <br><br>
+    <a href="https://recipe-alchemist-seven.vercel.app">🌐 Live Demo</a> | <a href="https://github.com/FlavioTomas/recipe-alchemist">📂 Repositório</a>
   </div>
 
-  <div style="display: inline-block; width: 45%; min-width: 300px; vertical-align: top; margin: 10px;">
-    <b>Flowtudy Pomodoro</b> <br>
-    <img src="./flowtudy-demo.gif" width="100%" style="border-radius: 10px;" alt="Demo Flowtudy"/> <br>
-    <a href="https://flowtudy.com">Live Demo</a> | <a href="https://github.com/FlavioTomas/Flowtudy-Pomodoro">Repositório</a>
+  <div style="display: inline-block; width: 45%; min-width: 300px; vertical-align: top; margin: 15px;">
+    <h4>Flowtudy Pomodoro</h4>
+    <br>
+    <img src="./flowtudy-demo.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Demo Flowtudy"/>
+    <br><br>
+    <a href="https://flowtudy.com">🌐 Live Demo</a> | <a href="https://github.com/FlavioTomas/Flowtudy-Pomodoro">📂 Repositório</a>
   </div>
 
 </div>
@@ -92,9 +96,9 @@
 <div align="center">
   <h3>Estatísticas & Atividade</h3>
   <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlavioTomas&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FlavioTomas&show_icons=true&theme=tokyonight&count_private=true&title_color=9370DB&icon_color=9370DB" />
   <br><br>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FlavioTomas&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FlavioTomas&theme=tokyonight&hide_border=true&stroke=9370DB&ring=9370DB" />
 </div>
 
 <br><br>

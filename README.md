@@ -1,64 +1,92 @@
-# Olá, eu sou o Flávio Tomás! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
-
-### Desenvolvedor Front-end | Engenheiro de Software 
-
-Sou estudante de Engenharia de Software com foco em IA e cursando MBA em Inteligência Artificial e Automações para Negócios. Unindo sólida base técnica em Front-end (React/TypeScript) com visão estratégica para otimizar resultados através da tecnologia.
+# Elegant - Software Engineer & AI Specialist
 
 ---
-
-### 🛠️ Tecnologias e Ferramentas
-
-<div display="inline-block">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
-
----
-
-### 🚀 Projetos em Destaque
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Recipe Alchemist</h3>
-      <img src="./caminho-para-seu-gif-recipe.gif" alt="Demo Recipe Alchemist" width="100%">
-      <p align="center">
-        Aplicação de Gastronomia Inteligente em React/TS.
-        <br />
-        <a href="https://github.com/FlavioTomas/recipe-alchemist">📂 Repositório</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Flowtudy</h3>
-      <img src="./caminho-para-seu-gif-flowtudy.gif" alt="Demo Flowtudy" width="100%">
-      <p align="center">
-        Ferramenta de produtividade Pomodoro em JS Vanilla.
-        <br />
-        <a href="https://flowtudy.com">🌐 Link do Site</a> | <a href="https://github.com/FlavioTomas/Flowtudy-Pomodoro">📂 Repositório</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlavioTomas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioTomas&layout=compact&theme=tokyonight" />
+
+  <br>
+
+  <img src="https://img.shields.io/badge/AI_Automation-ECDED1?style=for-the-badge&logo=openai&logoColor=000000" />
+  <img src="https://img.shields.io/badge/React-ECDED1?style=for-the-badge&logo=react&logoColor=000000" />
+  <img src="https://img.shields.io/badge/TypeScript-ECDED1?style=for-the-badge&logo=typescript&logoColor=000000" />
+
+  <br><br>
+
+  <samp><b>Flávio Tomás Peña Villa</b></samp>
+
+  <br><br>
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=800&size=40&pause=650&color=C8B68A&center=true&vCenter=true&width=1000&lines=Software+Engineer;Frontend+Developer;AI+Business+Specialist"
+    alt="Frontend Developer"
+  />
+
+  <br><br>
+
+  <samp>
+    react • typescript • tailwind • python • ai automation
+  </samp>
+
 </div>
 
----
+<br><br>
 
-### 📫 Vamos nos conectar?
+<div align="center">
+  <samp><b>Stack & Skills</b></samp>
+  <br><br>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/flávio-tomás/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Flávio Tomás" height="30" width="40" /></a>
-<a href="mailto:flavio.tomas.villa@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="flavio.tomas.villa" height="30" width="40" /></a>
-</p>
+  <img src="https://img.shields.io/badge/JavaScript-ECDED1?style=for-the-badge&logo=javascript&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/TypeScript-ECDED1?style=for-the-badge&logo=typescript&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Python-ECDED1?style=for-the-badge&logo=python&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/React-ECDED1?style=for-the-badge&logo=react&logoColor=000000"/>
+
+  <br>
+
+  <img src="https://img.shields.io/badge/HTML5-ECDED1?style=for-the-badge&logo=html5&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/CSS3-ECDED1?style=for-the-badge&logo=css3&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-ECDED1?style=for-the-badge&logo=tailwind-css&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Styled_Components-ECDED1?style=for-the-badge&logo=styled-components&logoColor=000000"/>
+
+  <br>
+
+  <img src="https://img.shields.io/badge/PostgreSQL-ECDED1?style=for-the-badge&logo=postgresql&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/MongoDB-ECDED1?style=for-the-badge&logo=mongodb&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Git-ECDED1?style=for-the-badge&logo=git&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Agile-ECDED1?style=for-the-badge&logo=scrumalliance&logoColor=000000"/>
+
+</div>
+
+<br><br>
+
+<div align="center">
+  <samp><b>Sobre mim</b></samp>
+  <br><br>
+
+  <samp>
+    ✦ Cursando Engenharia de Software com ênfase em IA (Infnet) <br>
+    ✦ MBA em Inteligência Artificial e Automações para Negócios <br>
+    ✦ Foco em criar interfaces inteligentes, responsivas e performáticas <br>
+    ✦ Entusiasta da automação para otimização de processos corporativos <br>
+    ✦ Inglês Avançado e Espanhol Intermediário <br>
+  </samp>
+</div>
+
+<br><br>
+
+<div align="center">
+  <samp><b>Estatísticas</b></samp>
+  <br><br>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FlavioTomas&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true&bg_color=fdfdfd&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioTomas&layout=compact&theme=flag-india&bg_color=fdfdfd&hide_border=true" />
+</div>
+
+<br><br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/flávio-tomás/">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:flavio.tomas.villa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>

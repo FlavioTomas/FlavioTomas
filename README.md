@@ -75,13 +75,13 @@
 
   <div style="display: inline-block; width: 45%; min-width: 300px; vertical-align: top; margin: 10px;">
     <b>Recipe Alchemist</b> <br>
-    <img src="./assets/recipe-demo.gif" width="100%" style="border-radius: 10px;" alt="Demo Recipe"/> <br>
+    <img src="./recipe-demo.gif" width="100%" style="border-radius: 10px;" alt="Demo Recipe"/> <br>
     <a href="https://recipe-alchemist-seven.vercel.app">Live Demo</a> | <a href="https://github.com/FlavioTomas/recipe-alchemist">Repositório</a>
   </div>
 
   <div style="display: inline-block; width: 45%; min-width: 300px; vertical-align: top; margin: 10px;">
     <b>Flowtudy Pomodoro</b> <br>
-    <img src="./assets/flowtudy-demo.gif" width="100%" style="border-radius: 10px;" alt="Demo Flowtudy"/> <br>
+    <img src="./flowtudy-demo.gif" width="100%" style="border-radius: 10px;" alt="Demo Flowtudy"/> <br>
     <a href="https://flowtudy.com">Live Demo</a> | <a href="https://github.com/FlavioTomas/Flowtudy-Pomodoro">Repositório</a>
   </div>
 

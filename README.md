@@ -72,30 +72,29 @@
 <div align="center">
   <h3>Projetos em Destaque</h3>
   <br>
-  
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <b>Recipe Alchemist</b> <br>
-        <img src="./recipe-demo.gif" width="100%" alt="Demo Recipe"/> <br>
-        <a href="https://recipe-alchemist-seven.vercel.app">Live Demo</a> | <a href="https://github.com/FlavioTomas/recipe-alchemist">Repositório</a>
-      </td>
-      <td width="50%" align="center">
-        <b>Flowtudy Pomodoro</b> <br>
-        <img src="./flowtudy-demo.gif" width="100%" alt="Demo Flowtudy"/> <br>
-        <a href="https://flowtudy.com">Live Demo</a> | <a href="https://github.com/FlavioTomas/Flowtudy-Pomodoro">Repositório</a>
-      </td>
-    </tr>
-  </table>
+
+  <div style="display: inline-block; width: 45%; min-width: 300px; vertical-align: top; margin: 10px;">
+    <b>Recipe Alchemist</b> <br>
+    <img src="./assets/recipe-demo.gif" width="100%" style="border-radius: 10px;" alt="Demo Recipe"/> <br>
+    <a href="https://recipe-alchemist-seven.vercel.app">Live Demo</a> | <a href="https://github.com/FlavioTomas/recipe-alchemist">Repositório</a>
+  </div>
+
+  <div style="display: inline-block; width: 45%; min-width: 300px; vertical-align: top; margin: 10px;">
+    <b>Flowtudy Pomodoro</b> <br>
+    <img src="./assets/flowtudy-demo.gif" width="100%" style="border-radius: 10px;" alt="Demo Flowtudy"/> <br>
+    <a href="https://flowtudy.com">Live Demo</a> | <a href="https://github.com/FlavioTomas/Flowtudy-Pomodoro">Repositório</a>
+  </div>
+
 </div>
 
 <br><br>
 
 <div align="center">
-  <h3>Estatísticas</h3>
+  <h3>Estatísticas & Atividade</h3>
   <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlavioTomas&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&title_color=9370DB&icon_color=9370DB" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioTomas&layout=compact&theme=vision-friendly-dark&title_color=9370DB" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlavioTomas&show_icons=true&theme=tokyonight&count_private=true" />
+  <br><br>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FlavioTomas&theme=tokyonight&hide_border=true" />
 </div>
 
 <br><br>

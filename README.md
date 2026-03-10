@@ -78,7 +78,7 @@
       <td width="50%" align="center">
         <b>Recipe Alchemist</b> <br>
         <img src="./recipe-demo.gif" width="100%" alt="Demo Recipe"/> <br>
-        <a href="https://github.com/FlavioTomas/recipe-alchemist">Repositório</a>
+        <a href="https://recipe-alchemist-seven.vercel.app">Live Demo</a> | <a href="https://github.com/FlavioTomas/recipe-alchemist">Repositório</a>
       </td>
       <td width="50%" align="center">
         <b>Flowtudy Pomodoro</b> <br>

@@ -1,6 +1,3 @@
-# Elegant - Software Engineer & AI Specialist
-
----
 
 <div align="center">
 

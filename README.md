@@ -74,7 +74,7 @@
   <br><br>
 
   <div style="display: inline-block; width: 45%; min-width: 300px; vertical-align: top; margin: 15px;">
-    <h4>Recipe Alchemist</h4>
+    <h3>Recipe Alchemist</h3>
     <br>
     <img src="./recipe-demo.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Demo Recipe"/>
     <br><br>
@@ -82,7 +82,7 @@
   </div>
 
   <div style="display: inline-block; width: 45%; min-width: 300px; vertical-align: top; margin: 15px;">
-    <h4>Flowtudy Pomodoro</h4>
+    <h3>Flowtudy Pomodoro</h3>
     <br>
     <img src="./flowtudy-demo.gif" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Demo Flowtudy"/>
     <br><br>

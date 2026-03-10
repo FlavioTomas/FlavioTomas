@@ -47,7 +47,7 @@
 
   <img src="https://img.shields.io/badge/Node.js-4B0082?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4B0082?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgresSQL-4B0082?style=for-the-badge&logo=postgres&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgresSQL-4B0082?style=for-the-badge&logo=postgressql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clean_Code-4B0082?style=for-the-badge&logo=clean-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-4B0082?style=for-the-badge&logo=git&logoColor=white"/>
 

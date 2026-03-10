@@ -77,12 +77,12 @@
     <tr>
       <td width="50%" align="center">
         <b>Recipe Alchemist</b> <br>
-        <img src="./assets/recipe-demo.gif" width="100%" alt="Demo Recipe"/> <br>
+        <img src="./recipe-demo.gif" width="100%" alt="Demo Recipe"/> <br>
         <a href="https://github.com/FlavioTomas/recipe-alchemist">Repositório</a>
       </td>
       <td width="50%" align="center">
         <b>Flowtudy Pomodoro</b> <br>
-        <img src="./assets/flowtudy-demo.gif" width="100%" alt="Demo Flowtudy"/> <br>
+        <img src="./flowtudy-demo.gif" width="100%" alt="Demo Flowtudy"/> <br>
         <a href="https://flowtudy.com">Live Demo</a> | <a href="https://github.com/FlavioTomas/Flowtudy-Pomodoro">Repositório</a>
       </td>
     </tr>
